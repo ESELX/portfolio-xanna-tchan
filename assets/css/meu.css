@@ -1,0 +1,48 @@
+#header {
+  background: #48ad9f;
+}
+
+#header > nav ul li a.active {
+  color: #48ad9f !important;
+}
+
+#titleBar .toggle:before {
+  background: #48ad9f;
+}
+
+a:hover {
+  color: #48ad9f !important;
+}
+
+header.major h2 {
+  color: #48ad9f;
+}
+
+textarea:focus {
+  border-color: #48ad9f;
+}
+
+input[type="radio"]:focus + label:before {
+  border-color: #48ad9f;
+}
+
+ul.feature-icons li:before {
+  background: #48ad9f;
+}
+.button.primary {
+    background-color: #48ad9f;
+}
+
+
+body, input, select, textarea {
+color: #070707;
+}
+
+{
+ text-decoration: none;
+ color: #070707;
+}
+#wrapper {
+  background: #ffffff;
+  padding-right: 23em;
+}
